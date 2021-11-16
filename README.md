@@ -1,5 +1,5 @@
 # VideoPlayer
-Played local mp4 video file and stream online mp4 file
+AVPlayer with custom controls, Played local mp4 video file and stream online mp4 file
 Programatically added scroll view 
 
 Special thanks for 
